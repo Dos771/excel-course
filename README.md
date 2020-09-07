@@ -1,2 +1,2 @@
-# excel-course with Vanilla JS
+# excel web with Vanilla JS
 Pure Javascript Advanced
